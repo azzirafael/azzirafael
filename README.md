@@ -1,17 +1,14 @@
-# Hello, I'm Rafael Azzi 👋🏻
+# Olá, sou o Rafael 👋🏻
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Zackwn)](https://github.com/Zackwn)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-%234dc966?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/rafaelfavazzi)](https://www.hackerrank.com/rafaelfavazzi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-f%C3%A1varo-azzi-1070011a9/)](https://www.linkedin.com/in/rafael-f%C3%A1varo-azzi-1070011a9/)
+Gosto de construir soluções e de entender como as coisas funcionam por dentro.
 
-## About me 
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Zackwn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-f%C3%A1varo-azzi-1070011a9/)
+[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/Rafaelzk)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rafaelfavazzi)
 
-⚡️ I'm 18, I love programming and development
+## Desafios
 
-## Studying now
+[![Codewars](https://www.codewars.com/users/Rafaelzk/badges/large)](https://www.codewars.com/users/Rafaelzk)
 
-📝 Knowledge is never too much, these are the content I'm focused on at the moment.
-
-* Golang
-* Docker
-* Typescript
+[![HackerRank](https://hacker-rank-stats-card.vercel.app/generate-card?username=rafaelfavazzi&theme=dark)](https://www.hackerrank.com/profile/rafaelfavazzi)
